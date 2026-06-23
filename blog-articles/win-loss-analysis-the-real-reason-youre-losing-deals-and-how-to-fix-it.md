@@ -179,7 +179,7 @@ What changed:
 
 Result: Win rate climbed from 22% to 34% within two quarters. Revenue impact: $1.8M in additional closed deals.
 
-Platforms like FollowEngine complement win-loss programs by tracking competitor behavior that directly influences deal outcomes — pricing changes, ad campaigns, and positioning shifts that show up in buyer conversations.
+Platforms like [FollowEngine](https://followengine.com) complement win-loss programs by tracking competitor behavior that directly influences deal outcomes — pricing changes, ad campaigns, and positioning shifts that show up in buyer conversations.
 
 ---
 
@@ -220,3 +220,7 @@ win loss analysis software ranges from dedicated platforms like Clari and Gong t
 win loss analysis isn't a nice-to-have research project. It's a core revenue function that directly impacts win rates, product decisions, and competitive positioning. The data is consistent: companies that systematically understand why they lose, lose less. Companies that don't keep losing to the same competitors for the same reasons — and never know why.
 
 Start with one lost-deal interview this week. The answers will surprise you.
+
+---
+
+*Originally published on the [FollowEngine Blog](https://followengine.com/en/blog/win-loss-analysis-the-real-reason-youre-losing-deals-and-how-to-fix-it).*

@@ -46,7 +46,7 @@ A battle card is only as good as the data behind it. Don't guess — pull from:
 - Customer feedback from accounts you won from competitors
 - Public sources: pricing pages, product updates, press releases, job listings
 - [Competitive intelligence platforms](https://followengine.com/en/login) that automate monitoring
-This is where modern tools change the game. Instead of manually checking competitor websites every week, platforms like FollowEngine track changes automatically across:
+This is where modern tools change the game. Instead of manually checking competitor websites every week, platforms like [FollowEngine](https://followengine.com) track changes automatically across:
 - Website updates and messaging shifts
 - Pricing page modifications
 - Product launches and feature announcements
@@ -136,3 +136,7 @@ The best sales organizations treat battle cards as living assets — connected t
 Companies that operationalize battle cards well consistently report better win rates, faster rep ramp time, and more confident sales conversations.
 If your battle cards are still static PDFs updated once a quarter, your competitors are probably already ahead of you. Start building smarter battle cards with [FollowEngine's free competitor intelligence tools](https://followengine.com/en/competitor-finder).
 > 🔍 [Find Your Strongest Competitors Free →](https://followengine.com/en/competitor-finder)
+
+---
+
+*Originally published on the [FollowEngine Blog](https://followengine.com/en/blog/how-to-create-battle-cards-that-actually-win-deals-2026).*

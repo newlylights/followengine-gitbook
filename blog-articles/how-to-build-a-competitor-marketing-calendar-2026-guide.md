@@ -13,7 +13,7 @@ A competitor marketing calendar helps teams:
 - Identify pricing and positioning shifts early—often visible in ad creative and landing pages before anything else
 - Build stronger, data-driven marketing strategies grounded in real competitive behavior, not assumptions
 
-Modern teams increasingly automate this process using tools like FollowEngine, which converts scattered competitor signals into structured, real-time timelines.
+Modern teams increasingly automate this process using tools like [FollowEngine](https://followengine.com), which converts scattered competitor signals into structured, real-time timelines.
 
 ---
 
@@ -295,3 +295,7 @@ A competitor marketing calendar is no longer just a documentation tool—it's a 
 The teams winning market share in 2026 aren't the ones that analyze competitors after the quarter ends. They're the ones that track competitor behavior in real time, recognize patterns as they emerge, and adjust their own campaigns before the market even realizes something shifted.
 
 If you're ready to stop manually checking competitor websites and start turning competitive signals into structured, actionable intelligence, FollowEngine provides a practical path from fragmented data to confident marketing decisions.
+
+---
+
+*Originally published on the [FollowEngine Blog](https://followengine.com/en/blog/how-to-build-a-competitor-marketing-calendar-2026-guide).*

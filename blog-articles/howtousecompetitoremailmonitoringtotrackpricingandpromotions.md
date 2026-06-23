@@ -140,3 +140,7 @@ Your competitors' emails contain their pricing strategy, promotion calendar, and
 The only question is whether you're turning that information into action — or treating it like spam.
 Stop deleting competitor newsletters. Start treating them as your most valuable [competitive intelligence](https://followengine.com/en/login) source with [FollowEngine](https://followengine.com/en/login).
 > 🚀 [Start Free Try Now →](https://followengine.com/en/login)
+
+---
+
+*Originally published on the [FollowEngine Blog](https://followengine.com/en/blog/how-to-use-competitor-email-monitoring-to-track-pricing-and-promotions).*

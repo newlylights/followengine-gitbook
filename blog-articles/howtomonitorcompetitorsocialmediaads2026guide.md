@@ -123,3 +123,7 @@ Campaigns have been built that crushed competitors, and competitors have crushed
 In 2026, winning isn't about running better ads than your competitors. It's about understanding their strategy well enough to counter it before they execute.
 Stop guessing what your competitors are doing. Start monitoring it systematically with [FollowEngine](https://followengine.com/en/login).
 > 🚀 [Start Free Try Now →](https://followengine.com/en/login)
+
+---
+
+*Originally published on the [FollowEngine Blog](https://followengine.com/en/blog/how-to-monitor-competitor-social-media-ads-2026-guide).*

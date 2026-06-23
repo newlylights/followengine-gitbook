@@ -177,7 +177,7 @@ At one enterprise client, integrating CI into their Notion/Confluence knowledge 
 
 ## How Modern Tools Change the Game
 
-Platforms like FollowEngine have changed what's possible by automating the entire [competitive intelligence gathering process](https://followengine.com/en/login):
+Platforms like [FollowEngine](https://followengine.com) have changed what's possible by automating the entire [competitive intelligence gathering process](https://followengine.com/en/login):
 
   - Real-time detection of competitor website changes
   - Automated ad monitoring across Google, Meta, and YouTube
@@ -238,3 +238,7 @@ Next step
 Run a free competitor lookup and decide what to monitor next.
 
 [Find competitors](/en/tools/competitor-finder)[View pricing](/en/pricing)
+
+---
+
+*Originally published on the [FollowEngine Blog](https://followengine.com/en/blog/how-to-gather-competitive-intelligence-the-right-way-a-2026-practitioners-guide).*

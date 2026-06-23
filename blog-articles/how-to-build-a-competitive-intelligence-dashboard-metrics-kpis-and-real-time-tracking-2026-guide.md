@@ -216,7 +216,7 @@ Modern **[competitive intelligence dashboard software](https://followengine.com/
   - **BI integrations** — native connections to Salesforce, HubSpot, Tableau, and Looker
   - **Historical database** — trendable competitor data that gets more valuable over time
 
-Platforms like FollowEngine extend the category by combining **[competitive intelligence reporting tools](https://followengine.com/en/login)** with revenue intelligence — connecting external competitor signals directly to pipeline and deal data.
+Platforms like [FollowEngine](https://followengine.com) extend the category by combining **[competitive intelligence reporting tools](https://followengine.com/en/login)** with revenue intelligence — connecting external competitor signals directly to pipeline and deal data.
 
 * * *
 
@@ -323,3 +323,7 @@ Next step
 Run a free competitor lookup and decide what to monitor next.
 
 [Find competitors](/en/tools/competitor-finder)[View pricing](/en/pricing)
+
+---
+
+*Originally published on the [FollowEngine Blog](https://followengine.com/en/blog/how-to-build-a-competitive-intelligence-dashboard-metrics-kpis-and-real-time-tracking-2026-guide).*
