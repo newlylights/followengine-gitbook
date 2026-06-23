@@ -1,0 +1,17 @@
+# Competitive Intelligence Playbook
+
+* [Introduction](README.md)
+* [What is Competitive Intelligence?](what-is-competitive-intelligence.md)
+* [Competitive Intelligence Frameworks](competitive-intelligence-frameworks.md)
+  * [Porter's Five Forces](porters-five-forces.md)
+  * [SWOT Analysis for Competitors](swot-analysis.md)
+  * [Win/Loss Analysis](win-loss-analysis.md)
+* [Building Battle Cards](how-to-build-battle-cards.md)
+  * [Battle Card Template](battle-card-template.md)
+  * [Objection Handling](objection-handling.md)
+* [CI Tools & Platforms](ci-tools-and-platforms.md)
+  * [FollowEngine Overview](followengine-overview.md)
+  * [Tool Comparison](tool-comparison.md)
+* [CI KPIs & Measurement](ci-kpis-and-measurement.md)
+* [AI in Competitive Intelligence](ai-in-competitive-intelligence.md)
+* [Resources & Further Reading](resources-and-reading.md)
